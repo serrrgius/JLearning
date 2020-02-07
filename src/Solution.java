@@ -1,6 +1,6 @@
 public class Solution {
 
-    static int aa = 7;
+    static int aa = 6;
     String s = ""+aa;
 
     public static void main(String[] args) {
