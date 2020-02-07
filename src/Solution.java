@@ -4,7 +4,8 @@ public class Solution {
     String s = ""+aa;
 
     public static void main(String[] args) {
-        System.out.println(aa);
+
+        System.out.println("Замутили афигенную фичу");
     }
 
 }
